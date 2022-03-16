@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfclark" alt="alfclark" /></a> </p>
 
-- 🌱 I’m currently learning **Bootstrap, Angular and Node.js**
+- 🌱 I’m currently learning **Bootstrap, Angular, Vue and Node.js**
 
 - 📫 How to reach me **alfredoclarkcardenas@gmail.com**
 
