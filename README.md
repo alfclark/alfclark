@@ -7,7 +7,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alfclark&label=Profile%20views&color=a935de&style=flat" alt="alfclark" /> </p>
 
-<p align="right">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alfclark&title=Commits,Repositories,Stars" />
 </p>
 
