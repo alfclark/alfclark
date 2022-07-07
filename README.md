@@ -64,7 +64,6 @@
       />
       <br /><strong>Vue</strong>
     </td>
-      <br /><strong>React</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
