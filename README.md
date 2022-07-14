@@ -1,7 +1,7 @@
 <p align="center">
   <img width="140" src="https://www.alfclark.dev/img/logo.40fd948a.png" />  
   <h1 align="center">Hi 👋, I'm Alfredo Clark</h1>
-  <h3 align="center">A passionate frontend developer from Mexico</h3>
+  <h3 align="center">A passionate web developer from Mexico</h3>
 </p>
 
 
