@@ -10,10 +10,10 @@
 
 ### 🌍 About Me
 - 📍 Based in Bangkok · Originally from Mexico  
-- 🎯 Currently Junior Technical Product Manager at [Nimble](https://nimblehq.co/)  
-- 💡 Background in Software Engineering (Vue, Nuxt, Tailwind, Firebase)  
+- 🎯 Currently Technical Product Manager at [Nimble](https://nimblehq.co/)  
+- 💡 Background in Software Engineering
 - 📚 MBA + Google Project Management Certified  
-- 🌱 Passionate about **product strategy, UX, and scaling SaaS tools**  
+- 🌱 Passionate about **building tech products to solve business problems**  
 - 🛠️ Founder of [NovaStudio](https://novastudio.pro/)   – building digital solutions for businesses  
 
 ---
