@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">Hi, I'm Alfredo Clark 👋</h1>
-<h3 align="center">Technical Product Manager | Building meaningful products at the intersection of tech, design & business</h3>
+<h3 align="center">Technical Product Manager</h3>
+<a href="https://www.alfclark.dev/en">alfclark.dev</a>
 
 ---
 
