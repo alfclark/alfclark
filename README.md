@@ -14,7 +14,7 @@
 - 💡 Background in Software Engineering (Vue, Nuxt, Tailwind, Firebase)  
 - 📚 MBA + Google Project Management Certified  
 - 🌱 Passionate about **product strategy, UX, and scaling SaaS tools**  
-- 🛠️ Founder of **NovaStudio** – building digital solutions for businesses  
+- 🛠️ Founder of [NovaStudio](https://novastudio.pro/)   – building digital solutions for businesses  
 
 ---
 
