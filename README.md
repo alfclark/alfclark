@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="120" src="https://www.alfclark.dev/img/logo.40fd948a.png" alt="Alfredo Clark logo" />
+  <img width="120" src="https://www.alfclark.dev/images/avatar.png" alt="Alfredo Clark logo" />
 </p>
 
 <h1 align="center">Hi, I'm Alfredo Clark 👋</h1>
